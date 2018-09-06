@@ -1,5 +1,10 @@
-# Light installations in public_eng
-(En_engglish)
+# Light installations in public
+
+  
+This is a survey of where recent light installation in public comes from.
+I totally understand this list is incomplete and also subjective.  
+It would be great if you can give me a suggestion to the list.  
+thank you
 
 # Light and Smoke
 
@@ -463,3 +468,7 @@ https://www.youtube.com/watch?v=PmINSrATDx0&
 Rafael Lozano-Hemmer - Project "Amodal Suspension” at YCAM
 http://www.amodal.net/jintro.html
 
+  
+# contributors
+Osamu Suzuki  
+Kousaku Namikawa  
