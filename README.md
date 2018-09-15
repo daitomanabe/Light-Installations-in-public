@@ -1,5 +1,6 @@
 # Light installations in public
 
+
   
 This is a survey of where recent light installation in public comes from.
 I totally understand this list is incomplete and also subjective.  
@@ -419,7 +420,7 @@ https://player.vimeo.com/video/128679815
 
 # Ingress
 
-Rhizomatiks Research
+Niantic Lab and Rhizomatiks Research
 Tokyo, 2015
 
 From the exhibitions of Roppongi Art Night 2015, 18 works become the portal, competing against each other. According to the situation of the war, the color of the light column installed at Roppongi Hills Mori Tower rooftop changes
@@ -432,7 +433,7 @@ From the exhibitions of Roppongi Art Night 2015, 18 works become the portal, com
 Perfume、Kazuaki Seki
 Tokyo, 2017
 
-Rhizomatiks Research participated in the creation of the music video for the new Perfume song, Tokyo Girl.
+The music video for the new Perfume song, Tokyo Girl.
 
 
 https://www.youtube.com/watch?v=vxl4gsvgEQY&
@@ -451,8 +452,9 @@ https://www.youtube.com/watch?v=vxl4gsvgEQY&
 Perfume
 Tokyo, 2017
 
-A famous year-end television program. Rhizomatiks used cutting-edge technology such as Dynamic VR and Seamless MR.
+NHK, Perfume and Rhizomatiks Research
 
+Perfume's live show at a famous year-end television program. 
 
 https://www.youtube.com/watch?v=PmINSrATDx0&
 
